@@ -1,0 +1,3 @@
+dynamicSmagorinskyST.C
+
+LIB = $(FOAM_LIBBIN)/libdynamicSmagorinskyModel_ST
