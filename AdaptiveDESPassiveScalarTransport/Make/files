@@ -1,0 +1,3 @@
+dynamickOmegaDDES.C
+
+LIB = $(FOAM_LIBBIN)/lib_adaptiveDDES_EDM_source_incompressibleRASModels
